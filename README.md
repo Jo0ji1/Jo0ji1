@@ -1,5 +1,5 @@
 <!-- =========================================================
-     João • Jo0ji1  —  GitHub Profile README
+     George • Jo0ji1  —  GitHub Profile README
      Data Analyst @ Mídia Digital / E-commerce  •  CC student
 ========================================================= -->
 
@@ -30,7 +30,7 @@
 ## 🧭 Sobre
 
 ```yaml
-nome:        João  (Jo0ji1)
+nome:        George  (Jo0ji1)
 atua como:   Analista de Dados • Mídia Digital para E-commerce
 estuda:      Bacharelado em Ciência da Computação 🇧🇷
 opera em:    Google Shopping • Merchant Center • Meta • Pinterest • Microsoft Ads
@@ -152,8 +152,8 @@ princípio:   "decisão sem número é opinião"
 <div align="center">
 
 <a href="https://github.com/Jo0ji1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:antwil2010@hotmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/george-carlos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 

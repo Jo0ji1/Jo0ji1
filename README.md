@@ -123,9 +123,6 @@ princípio:   "decisão sem número é opinião"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jo0ji1&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" height="165"/>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jo0ji1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
 </div>
 
 ---

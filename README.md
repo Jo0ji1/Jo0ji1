@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/Jo0ji1">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jo%C3%A3o%20%E2%80%A2%20Jo0ji1&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Data%20Analyst%20%E2%80%A2%20E-commerce%20Media%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=George%20%E2%80%A2%20Jo0ji1&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Data%20Analyst%20%E2%80%A2%20E-commerce%20Media%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
 </a>
 
 <br/>
@@ -153,7 +153,7 @@ princípio:   "decisão sem número é opinião"
 
 <a href="https://github.com/Jo0ji1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:antwil2010@hotmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="www.linkedin.com/in/george-carlos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/george-carlos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
